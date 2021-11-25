@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\ExamenKarolPalma\ExamenKarolPalma\ExamenKarolPalma\bin\Debug\netstandard2.0\ExamenKarolPalma.deps.json
+C:\Users\Usuario\source\repos\ExamenKarolPalma\ExamenKarolPalma\ExamenKarolPalma\bin\Debug\netstandard2.0\ExamenKarolPalma.dll
+C:\Users\Usuario\source\repos\ExamenKarolPalma\ExamenKarolPalma\ExamenKarolPalma\bin\Debug\netstandard2.0\ref\ExamenKarolPalma.dll
+C:\Users\Usuario\source\repos\ExamenKarolPalma\ExamenKarolPalma\ExamenKarolPalma\bin\Debug\netstandard2.0\ExamenKarolPalma.pdb
+C:\Users\Usuario\source\repos\ExamenKarolPalma\ExamenKarolPalma\ExamenKarolPalma\obj\Debug\netstandard2.0\ExamenKarolPalma.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ExamenKarolPalma\ExamenKarolPalma\ExamenKarolPalma\obj\Debug\netstandard2.0\ExamenKarolPalma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ExamenKarolPalma\ExamenKarolPalma\ExamenKarolPalma\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\source\repos\ExamenKarolPalma\ExamenKarolPalma\ExamenKarolPalma\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\source\repos\ExamenKarolPalma\ExamenKarolPalma\ExamenKarolPalma\obj\Debug\netstandard2.0\ExamenKarolPalma.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ExamenKarolPalma\ExamenKarolPalma\ExamenKarolPalma\obj\Debug\netstandard2.0\ExamenKarolPalma.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ExamenKarolPalma\ExamenKarolPalma\ExamenKarolPalma\obj\Debug\netstandard2.0\ExamenKarolPalma.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ExamenKarolPalma\ExamenKarolPalma\ExamenKarolPalma\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\source\repos\ExamenKarolPalma\ExamenKarolPalma\ExamenKarolPalma\obj\Debug\netstandard2.0\ExamenKarolPalma.dll
+C:\Users\Usuario\source\repos\ExamenKarolPalma\ExamenKarolPalma\ExamenKarolPalma\obj\Debug\netstandard2.0\ref\ExamenKarolPalma.dll
+C:\Users\Usuario\source\repos\ExamenKarolPalma\ExamenKarolPalma\ExamenKarolPalma\obj\Debug\netstandard2.0\ExamenKarolPalma.pdb
+C:\Users\Usuario\source\repos\ExamenKarolPalma\ExamenKarolPalma\ExamenKarolPalma\obj\Debug\netstandard2.0\ListadoAlumno.xaml.g.cs
+C:\Users\Usuario\source\repos\ExamenKarolPalma\ExamenKarolPalma\ExamenKarolPalma\obj\Debug\netstandard2.0\PerfilAlumno.xaml.g.cs

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ExamenKarolPalma.ListadoAlumno" Title="Lista de Alumnos de 7mo Grado">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Lista de Alumnos de 7mo Grado" FontSize="25" HorizontalTextAlignment="Center" Margin="0,20,0,20"/>
+            <Entry x:Name="anioElectivo" Placeholder="Ingrese el año electivo" Margin="50,0,50,0"/>
+            <Button x:Name="btnGenerarLista" Text="Generar Lista de Alumnos" Clicked="btnGenerarLista_Clicked" Margin="50,20,50,50" Background="#2196F3" TextColor="White"/>
+            <ListView x:Name="lstInfoAlumno" HasUnevenRows="true">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Padding="40,0,0,0">
+                                <Label Text="{Binding alumno_rne}" TextColor="Black"></Label>
+                                <Label Text="{Binding nombrec}" TextColor="Black"></Label>
+                                <Label Text="{Binding alumno_genero}" TextColor="Black"></Label>
+                                <Label Text="SEPTIMO GRADO" TextColor="Black"></Label>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Label Text="Karol Stephany Palma Ventura - 201910060112" HorizontalTextAlignment="Center" FontSize="16"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
